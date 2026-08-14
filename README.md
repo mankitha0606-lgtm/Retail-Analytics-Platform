@@ -265,7 +265,6 @@ The dashboard provides insights into:
 
 ![Power BI Dashboard](images/Powerbi-1.png)
 
-![Power BI Dashboard](images/Powerbi-2.png)
 
 ---
 
@@ -654,8 +653,6 @@ The dashboard focuses on:
 - Business trends
 
 ## Dashboard Preview
-
-![Power BI Dashboard](images/Powerbi-1.png)
 
 ![Power BI Dashboard](images/Powerbi-2.png)
 
