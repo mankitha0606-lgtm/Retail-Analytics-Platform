@@ -1,0 +1,23 @@
+Order ID,Customer ID,Customer Name,Segment,Order Date,City,State,Country
+CA-2015-AG10330140-42361,AG-103301404,Alex Grayson,Consumer,2015-12-23,Mesa,Arizona,United States
+CA-2015-AG10330140-42361,AG-103301402,Alex Grayson,Consumer,2015-12-23,Houston,Texas,United States
+CA-2014-BW11200140-41940,BW-112001406,Ben Wallace,Consumer,2014-10-28,New York City,New York,United States
+CA-2014-BW11200140-41940,BW-112001408,Ben Wallace,Consumer,2014-10-28,Hampton,Virginia,United States
+CA-2012-CS12355140-41135,CS-123551408,Christine Sundaresam,Consumer,2012-08-14,Hollywood,Florida,United States
+CA-2012-CS12355140-41135,CS-123551406,Christine Sundaresam,Consumer,2012-08-14,Fairfield,Connecticut,United States
+CA-2013-EM13960140-41548,EM-139601404,Eric Murdock,Consumer,2013-10-01,Portland,Oregon,United States
+CA-2013-EM13960140-41548,EM-139601402,Eric Murdock,Consumer,2013-10-01,Quincy,Illinois,United States
+CA-2014-GT14710140-41689,GT-147101406,Greg Tran,Consumer,2014-02-19,New York City,New York,United States
+CA-2014-GT14710140-41689,GT-147101404,Greg Tran,Consumer,2014-02-19,San Francisco,California,United States
+CA-2015-HM14860140-42221,HM-148601404,Harry Marie,Corporate,2015-08-05,Loveland,Colorado,United States
+CA-2015-HM14860140-42221,HM-148601402,Harry Marie,Corporate,2015-08-05,Carrollton,Texas,United States
+CA-2014-JG15160140-41979,JG-151601408,James Galang,Consumer,2014-12-06,Murray,Kentucky,United States
+CA-2014-JG15160140-41979,JG-151601406,James Galang,Consumer,2014-12-06,New York City,New York,United States
+CA-2014-JE15715140-41999,JE-157151406,Joe Elijah,Consumer,2014-12-26,New York City,New York,United States
+CA-2014-JE15715140-41999,JE-157151404,Joe Elijah,Consumer,2014-12-26,Seattle,Washington,United States
+CA-2013-KB16240140-41585,KB-162401404,Karen Bern,Corporate,2013-11-07,Los Angeles,California,United States
+CA-2013-KB16240140-41585,KB-162401406,Karen Bern,Corporate,2013-11-07,Philadelphia,Pennsylvania,United States
+CA-2013-PJ18835140-41592,PJ-188351408,Patrick Jones,Corporate,2013-11-14,Springfield,Virginia,United States
+CA-2013-PJ18835140-41592,PJ-188351406,Patrick Jones,Corporate,2013-11-14,New York City,New York,United States
+CA-2015-RD19585140-42189,RD-195851402,Rob Dowd,Consumer,2015-07-04,Plano,Texas,United States
+CA-2015-RD19585140-42189,RD-195851404,Rob Dowd,Consumer,2015-07-04,Los Angeles,California,United States
