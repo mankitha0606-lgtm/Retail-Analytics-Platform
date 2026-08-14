@@ -34,6 +34,18 @@ The final Machine Learning application predicts whether a retail transaction is 
 
 ---
 
+## 🚀 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://retail-analytics-platform-k2mlrxmnwsfgbekkv2kja9.streamlit.app/)
+
+### 🔗 Try the Application
+
+👉 [Retail Transaction Loss Risk Predictor](https://retail-analytics-platform-k2mlrxmnwsfgbekkv2kja9.streamlit.app/)
+
+The application predicts whether a retail transaction is likely to be **profitable or loss-making** based on transaction, product, customer, regional, and shipping characteristics.
+
+---
+
 ## 🎯 Business Problem
 
 Retail businesses can generate high sales while still experiencing losses because of factors such as:
@@ -285,69 +297,9 @@ The EDA stage helped identify important business patterns and supported the Mach
 
 ---
 
-# 📉 Discount × Category × Profit
-
-The analysis showed a strong relationship between **discount levels and profit margins**.
-
-Higher discount levels generally resulted in progressively lower profit margins and, in many cases, negative profitability.
-
-### Example: Furniture
-
-| Discount Band | Profit Margin |
-|---|---:|
-| 0–10% | 22.18% |
-| 11–20% | 4.62% |
-| 21–30% | -6.18% |
-| 31–40% | -25.40% |
-| 41–50% | -48.22% |
-| 51–60% | -81.43% |
-| 61–70% | -146.09% |
-| 71–85% | -259.42% |
-
-### Business Insight
-
-> **Excessive discounting is strongly associated with declining profitability.**
-
----
-
-# 🌎 Discount × Region × Profit
-
-Regional analysis showed that several regions experienced significant losses at high discount levels.
-
-Examples include:
-
-- Western Europe – 71–85% discount
-- Northern Europe – 71–85% discount
-- Southern Asia – 71–85% discount
-- Central US – 71–85% discount
-- Western Africa – 61–70% discount
-- Western Asia – 61–70% discount
-
 ### Business Insight
 
 > **Discount strategies should be evaluated at a regional level rather than applying a single strategy across all markets.**
-
----
-
-# 📦 Product Analysis
-
-Products were analyzed using:
-
-- Total Quantity
-- Total Sales
-- Total Profit
-- Profit Margin
-- Category
-- Sub-Category
-
-Products were segmented into four groups:
-
-```text
-Strong Products
-Weak Products
-Problem Products
-Hidden Opportunities
-```
 
 ---
 
